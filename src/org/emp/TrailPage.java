@@ -6,7 +6,7 @@ public class TrailPage {
 		
 		this("bala");
 		
-		System.out.println("d constructor");
+		System.out.println("d constructor is best");
 			
 	}
 	
@@ -31,6 +31,7 @@ public class TrailPage {
 	public static void main(String[] args) {
 		
 		TrailPage e = new TrailPage();
+		
 		
 		
 		
